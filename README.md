@@ -1,2 +1,2 @@
 # Portfolio
- This portfolio website had built with React (with Javascript), Tailwind CSS, and Three.js
+ This portfolio website was built with React (with Javascript), Tailwind CSS, and Three.js
