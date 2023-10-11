@@ -23,6 +23,14 @@ import {
     jobit,
     tripguide,
     threejs,
+    Cs,
+    C,
+    Python,
+    Nextjs,
+    Vercel,
+    Unity,
+    GitHubDesktop,
+
   } from "../assets";
   import { github } from '../assets';
   
@@ -97,6 +105,14 @@ import {
       name: "Node JS",
       icon: nodejs,
     },
+    {
+      name: "Nextjs",
+      icon: Nextjs,
+    },
+    {
+      name: "Vercel",
+      icon: Vercel,
+    },
     // {
     //   name: "MongoDB",
     //   icon: mongodb,
@@ -105,10 +121,10 @@ import {
       name: "Three JS",
       icon: threejs,
     },
-    {
-      name: "git",
-      icon: git,
-    },
+    // {
+    //   name: "git",
+    //   icon: git,
+    // },
     {
       name: "figma",
       icon: figma,
@@ -117,6 +133,26 @@ import {
     //   name: "docker",
     //   icon: docker,
     // },
+    {
+      name: "CSharp",
+      icon: Cs,
+    },
+    {
+      name: "C",
+      icon: C,
+    },
+    {
+      name: "Python",
+      icon: Python,
+    },
+    {
+      name: "Unity",
+      icon: Unity,
+    },
+    {
+      name: "GitHubDesktop",
+      icon: GitHubDesktop,
+    },
   ];
   
   const experiences = [

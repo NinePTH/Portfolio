@@ -21,6 +21,13 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import Cs from "./tech/Cs.png";
+import C from "./tech/C.png";
+import Python from "./tech/Python.png";
+import Nextjs from "./tech/Nextjs.png";
+import Vercel from "./tech/Vercel.svg";
+import GitHubDesktop from "./tech/GitHubDesktop.png";
+import Unity from "./tech/Unity.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -61,4 +68,11 @@ export {
   carrent,
   jobit,
   tripguide,
+  Cs,
+  C,
+  Python,
+  Nextjs,
+  Vercel,
+  GitHubDesktop,
+  Unity,
 };

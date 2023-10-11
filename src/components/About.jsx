@@ -40,7 +40,7 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+        className='mt-4 text-[#50525b] text-[17px] max-w-3xl leading-[30px]'
       >
         18 years old student at KMUTT university. I'm a junior software developer with experience in Python, C/C++, C#, HTML, Css, TypeScript, JavaScript, Java, and be able to use some frameworks like React, Nextjs.
       </motion.p>
