@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lumen 64 || Computer
+* source:	https://sketchfab.com/3d-models/lumen-64-computer-29bb034488474b79a21cdada562a060f
+* author:	dark_igorek (https://sketchfab.com/dark_igorek)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lumen 64 || Computer" (https://sketchfab.com/3d-models/lumen-64-computer-29bb034488474b79a21cdada562a060f) by dark_igorek (https://sketchfab.com/dark_igorek) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
