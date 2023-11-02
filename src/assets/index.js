@@ -22,7 +22,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import csharp from "./tech/cs.png";
+import csharp from "./tech/ceesharp.png";
 import c from "./tech/c.png";
 import Python from "./tech/python.png";
 import Nextjs from "./tech/nextjs.png";
