@@ -22,7 +22,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import Cs from "./tech/cs.png";
+import cs from "./tech/cs.png";
 import C from "./tech/c.png";
 import Python from "./tech/python.png";
 import Nextjs from "./tech/nextjs.png";
@@ -73,7 +73,7 @@ export {
   carrent,
   jobit,
   tripguide,
-  Cs,
+  cs,
   C,
   Python,
   Nextjs,

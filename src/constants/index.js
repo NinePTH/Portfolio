@@ -23,7 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
-    Cs,
+    cs,
     C,
     Python,
     Nextjs,
@@ -141,7 +141,7 @@ import {
     // },
     {
       name: "CSharp",
-      icon: Cs,
+      icon: cs,
     },
     {
       name: "C",
