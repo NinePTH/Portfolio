@@ -53,6 +53,12 @@
   );
 }
 
+.red-black-gradient {
+  background: "#ff4646";
+  background: linear-gradient(90.13deg, #ff4646 1.9%, #2D2D2D 97.5%);
+  background: -webkit-linear-gradient(-90.13deg, #ff4646 1.9%, #2D2D2D 97.5%);
+}
+
 .green-pink-gradient {
   background: "#00cea8";
   background: linear-gradient(90.13deg, #00cea8 1.9%, #bf61ff 97.5%);

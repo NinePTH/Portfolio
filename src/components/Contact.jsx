@@ -3,7 +3,7 @@ import { motion } from 'framer-motion'
 import  emailjS  from '@emailjs/browser'
 
 import { styles } from '../styles'
-import { EarthCanvas } from './canvas'
+import { EarthCanvas, secretAreaCanvas } from './canvas'
 import { SectionWrapper } from '../hoc'
 import { slideIn } from '../utils/motion'
 
@@ -128,6 +128,7 @@ const Contact = () => {
         className='xl:flex-1 xl:h-auto md:h-[550] h-[350px]'
       >
         <EarthCanvas />
+        {/* <secretAreaCanvas /> */}
       </motion.div>
     </div>
   )

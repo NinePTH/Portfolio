@@ -30,6 +30,11 @@ import {
     Vercel,
     Unity,
     GitHubDesktop,
+    computerIcon,
+    NUD,
+    HamsterHub,
+    daydev,
+    CPE,
 
   } from "../assets";
   import { github } from '../assets';
@@ -52,23 +57,24 @@ import {
   const services = [
     {
       title: "Web Developer",
-      icon: web,
+      // icon: web,
+      icon: computerIcon,
     },
     {
       title: "IOT Developer",
-      icon: mobile,
+      icon: computerIcon,
     },
     {
       title: "Game Developer",
-      icon: backend,
+      icon: computerIcon,
     },
     {
       title: "Game Designer",
-      icon: creator,
+      icon: computerIcon,
     },
     {
       title: "Basic Data Science",
-      icon: backend,
+      icon: computerIcon,
     },
   ];
   
@@ -159,7 +165,7 @@ import {
     {
       title: "Naresuan University Secondary Demonstration School",
       company_name: "Mathematics-Science Program",
-      icon: starbucks,
+      icon: NUD,
       iconBg: "#383E56",
       date: "May 2017 - Mar 2023",
       points: [
@@ -176,7 +182,7 @@ import {
     {
       title: "Python teaching and TA, Beginner Data Science, and Game Developer",
       company_name: "Hamster Hub",
-      icon: tesla,
+      icon: HamsterHub,
       iconBg: "#E6DEDD",
       date: "Mar 2022 - Jan 2023",
       points: [
@@ -193,7 +199,7 @@ import {
     {
       title: "Intern Game Developer",
       company_name: "DayDev",
-      icon: shopify,
+      icon: daydev,
       iconBg: "#383E56",
       date: "Feb 2022 - Mar 2023",
       points: [
@@ -211,7 +217,7 @@ import {
     {
       title: "Computer Engineering Student",
       company_name: "King Mongkut's University of Technology Thonburi",
-      icon: meta,
+      icon: CPE,
       iconBg: "#E6DEDD",
       date: "Aug 2023 - Present",
       points: [
