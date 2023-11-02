@@ -22,8 +22,8 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import cs from "./tech/cs.png";
-import C from "./tech/c.png";
+import csharp from "./tech/cs.png";
+import c from "./tech/c.png";
 import Python from "./tech/python.png";
 import Nextjs from "./tech/nextjs.png";
 import Vercel from "./tech/vercel.svg";
@@ -73,8 +73,8 @@ export {
   carrent,
   jobit,
   tripguide,
-  cs,
-  C,
+  csharp,
+  c,
   Python,
   Nextjs,
   Vercel,

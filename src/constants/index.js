@@ -140,12 +140,12 @@ import {
     //   icon: docker,
     // },
     {
-      name: "CSharp",
-      icon: cs,
+      name: "cSharp",
+      icon: csharp,
     },
     {
       name: "C",
-      icon: C,
+      icon: c,
     },
     {
       name: "Python",
