@@ -227,8 +227,7 @@ import {
         // "Participating in code reviews and providing constructive feedback to other developers.",
         "POPSLOTH via Nextjs, Tailwind CSS, Typescript, Vercel deployment",
         "Portfolio Website via React vite, Tailwind CSS, FireBase, React Three Fiber, Three.js",
-        "Okay bruh",
-        "Okay bruh",
+        "House keeper robot",
       ],
     },
   ];
