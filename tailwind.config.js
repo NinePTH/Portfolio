@@ -19,9 +19,10 @@ module.exports = {
         xs: "450px",
       },
       backgroundImage: {
-        // "hero-pattern": "url('/src/assets/herobg.png')",
         "hero-pattern": "url('/src/assets/v748-toon-103.jpg')",
-        
+        "hero-pattern2": "url('/src/assets/drew-beamer-kUHfMW8awpE-unsplash.jpg')",
+        "hero-pattern3": "url('/src/assets/emile-seguin-R9OueKOtGGU-unsplash.jpg')",
+        "hero-pattern4": "url('/src/assets/augustine-wong-3Om4DHcaAc0-unsplash.jpg')",
       },
     },
   },
