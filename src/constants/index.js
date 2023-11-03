@@ -141,7 +141,7 @@ import {
       title: "Naresuan University Secondary Demonstration School",
       company_name: "Mathematics-Science Program",
       icon: NUD,
-      iconBg: "#383E56",
+      iconBg: "#232631",
       date: "May 2017 - Mar 2023",
       points: [
         "The Internet of Things for an Automatic Landslide Prediction System via Artificial Intelligence Prototype, made with C and Python on Raspberry pi and ESP8266",
@@ -167,7 +167,7 @@ import {
       title: "Intern Game Developer",
       company_name: "DayDev",
       icon: daydev,
-      iconBg: "#383E56",
+      iconBg: "#232631",
       date: "Feb 2022 - Mar 2023",
       points: [
         "UX/UI Designing",

@@ -36,7 +36,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import NUD from "./NUD.png";
 import HamsterHub from "./HamsterHub.png";
-import daydev from "./daydev.jpg";
+import daydev from "./daydev.png";
 import CPE from "./CPE.png";
 
 import carrent from "./carrent.png";
