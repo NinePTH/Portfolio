@@ -144,10 +144,10 @@ import {
       iconBg: "#232631",
       date: "May 2017 - Mar 2023",
       points: [
-        "The Internet of Things for an Automatic Landslide Prediction System via Artificial Intelligence Prototype, made with C and Python on Raspberry pi and ESP8266",
+        "The Internet of Things for an Automatic Landslide Prediction System via Artificial Intelligence Prototype, made with c/c++(on Arduino) and Python on Raspberry pi and ESP8266",
         "Smart Plant Pot via Raspberry pi, Arudino",
         "IOT Health Web Application with ESP32",
-        "Full-Stack Raspberry Pi",
+        "Full-Stack Raspberry Pi (TKinter for UI and CRUD data with Python and Excel)",
       ],
     },
     {
@@ -157,10 +157,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Mar 2022 - Jan 2023",
       points: [
-        "Python Programming and Basic Data Science (3 month)",
+        "Python Programming and Basic Data Science (3 month) have a little project 'Alarm bot for Discord' and some of Data Science project.",
         "Teaching Python and Being TA.",
-        "3D Isometric Game Project (3 month)",
-        "MMORPG Game Startup Project (3 month)",
+        "3D Isometric Game Project (3 month) with C#, Figma and Unity",
+        "MMORPG Game Startup Project (3 month) with C#, Figma, Canva white board and Unity",
       ],
     },
     {
@@ -170,10 +170,11 @@ import {
       iconBg: "#232631",
       date: "Feb 2022 - Mar 2023",
       points: [
-        "UX/UI Designing",
+        "Game coding with C# and Unity",
+        "UX/UI Designing with Figma and Adobe Illustrator",
         "Game Designing",
         "Map Designing",
-        "Learn OOP",
+        "Learn OOP with JAVA",
         "Broadcast on TV and Youtube Channel",
       ],
     },
@@ -184,9 +185,9 @@ import {
       iconBg: "#E6DEDD",
       date: "Aug 2023 - Present",
       points: [
-        "POPSLOTH via Nextjs, Tailwind CSS, Typescript, Vercel deployment",
+        "POPSLOTH application via Nextjs, Tailwind CSS, Typescript, Vercel deployment",
         "Portfolio Website via React vite, Tailwind CSS, FireBase, React Three Fiber, Three.js",
-        "House keeper robot",
+        "House keeper robot via microbit, huskylens, some servo, 3D print and laser cut",
       ],
     },
   ];

@@ -11,15 +11,22 @@ const Tech = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-          <p className={styles.sectionSubText}>Tech</p>
+          <p className={styles.sectionSubText}>Almost of </p>
           <h2 className={styles.sectionHeadText}>TECH & FRAMEWORK.</h2>
       </motion.div>
 
       <motion.p
       variants={fadeIn("", "", 0.1, 1)}
+      className='mt-4 text-[#50525b] text-[17px] max-w-3xl leading-[30px]'
+      >
+        that I have touch, experience on it.<br className='sm:block hidden' />Just some experience I'm still continue learning to be more good at it.
+      </motion.p>
+
+      <motion.p
+      variants={fadeIn("", "", 0.1, 1)}
       className='mt-4 mb-10 text-[#50525b] text-[17px] max-w-3xl leading-[30px]'
       >
-        that I have experience on it.
+        You can Find some more of tech that I have ever use on my Github repository.
       </motion.p>
     <div className=" flex flex-row flex-wrap justify-center gap-10">
       {technologies.map((technology) => (
