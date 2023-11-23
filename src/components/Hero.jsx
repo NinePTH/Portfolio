@@ -17,7 +17,7 @@ const Hero = () => {
         <div>
           <h1 className={`${styles.heroHeadText} text-black-100`}>Hi, I'm <span className='text-[#ff0000]'>Patihan</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-[#50525b]`}>I am freshman CPE student in KMUTT University.<br className='sm:block hidden' />This Portfolio website is for assignment submission in CPE 101 subject.<br className='sm:block hidden' />Slide down the page to get to know me more.</p>
-          <p className={`${styles.heroSubText} mt-14 text-[#50525b]`}>Thank you for being interested.</p>
+          <p className={`${styles.heroSubText} mt-14 text-[#50525b]`}>Thank you for your attention.</p>
         </div>
       </div>
 

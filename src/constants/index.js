@@ -185,9 +185,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Aug 2023 - Present",
       points: [
-        "POPSLOTH application via Nextjs, Tailwind CSS, Typescript, Vercel deployment",
-        "Portfolio Website via React vite, Tailwind CSS, FireBase, React Three Fiber, Three.js",
-        "House keeper robot via microbit, huskylens, some servo, 3D print and laser cut",
+        "POPSLOTH application via Nextjs, Tailwind CSS, Typescript, Vercel deployment.",
+        "Portfolio Website via React vite, Tailwind CSS, FireBase, React Three Fiber, Three.js.",
+        "House keeper robot via microbit, huskylens, some servo, 3D print and laser cut.",
+        "Inventory Management System for Owner and cashier of a shop via c.",
       ],
     },
   ];
