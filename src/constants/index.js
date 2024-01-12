@@ -170,7 +170,7 @@ import {
       iconBg: "#232631",
       date: "Feb 2022 - Mar 2023",
       points: [
-        "Game coding with C# and Unity",
+        "3D Game coding with C# and Unity",
         "UX/UI Designing with Figma and Adobe Illustrator",
         "Game Designing",
         "Map Designing",
@@ -179,7 +179,7 @@ import {
       ],
     },
     {
-      title: "Computer Engineering Student",
+      title: "Freshman Computer Engineering Student",
       company_name: "King Mongkut's University of Technology Thonburi",
       icon: CPE,
       iconBg: "#E6DEDD",
@@ -187,8 +187,9 @@ import {
       points: [
         "POPSLOTH application via Nextjs, Tailwind CSS, Typescript, Vercel deployment.",
         "Portfolio Website via React vite, Tailwind CSS, FireBase, React Three Fiber, Three.js.",
-        "House keeper robot via microbit, huskylens, some servo, 3D print and laser cut.",
+        "House keeper robot via microbit, huskylens, servo, 3D print and laser cut.",
         "Inventory Management System for Owner and cashier of a shop via c.",
+        "Develop 2D and 3D games using unity: 'The one eye Void: Fire wizards'(3D) and 'Forest of the Fallen'(2D) which is available on my itch.io profile",
       ],
     },
   ];
