@@ -8,6 +8,7 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import computerIcon from "./computer-icon-clipart-md.png"
+import link from "./link.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -42,6 +43,7 @@ import CPE from "./CPE.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import comcamp from "./comcamp35.png"
 
 export {
   logo,
@@ -51,6 +53,7 @@ export {
   mobile,
   web,
   github,
+  link,
   menu,
   close,
   css,
@@ -70,6 +73,7 @@ export {
   shopify,
   starbucks,
   tesla,
+  comcamp,
   carrent,
   jobit,
   tripguide,

@@ -17,7 +17,7 @@ const App = () => {
       <div className="bg-hero-pattern2 bg-cover bg-no-repeat bg-center">
         <Tech />
       </div>
-      {/* <Works /> */}
+      <Works />
       {/* <Feedbacks /> */}
       <div className="relative z-0">
         <Contact />

@@ -19,6 +19,7 @@ import {
     starbucks,
     tesla,
     shopify,
+    comcamp,
     carrent,
     jobit,
     tripguide,
@@ -91,6 +92,10 @@ import {
       icon: javascript,
     },
     {
+      name: "TypeScript",
+      icon: typescript,
+    },
+    {
       name: "React JS",
       icon: reactjs,
     },
@@ -105,6 +110,14 @@ import {
     {
       name: "Vercel",
       icon: Vercel,
+    },
+    {
+      name: "nodejs",
+      icon: nodejs,
+    },
+    {
+      name: "git",
+      icon: git,
     },
     {
       name: "Three JS",
@@ -190,6 +203,7 @@ import {
         "House keeper robot via microbit, huskylens, servo, 3D print and laser cut.",
         "Inventory Management System for Owner and cashier of a shop via c.",
         "Develop 2D and 3D games using unity: 'The one eye Void: Fire wizards'(3D) and 'Forest of the Fallen'(2D) which is available on my itch.io profile",
+        "Learning + Condition + Form Section in ComCamp 35 Website with React, Vite, Typescript, SCSS, Radix UI.",
       ],
     },
   ];
@@ -223,68 +237,69 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "ComCamp 35",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Website for Comcamp 35 that will show camp content and register student that interest in cpe department. I working on Content of website, Learning Section, Condition Section and Register Form.",
       tags: [
         {
           name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "mongodb",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: carrent,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Job IT",
-      description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-      tags: [
-        {
-          name: "react",
+          name: "typescipt",
           color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
         },
         {
           name: "scss",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: comcamp,
+      source_code_link: "https://github.com/cpe-kmutt-student",
+      website_link: "https://comcamp-dev.kronos.moe/",
     },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
-    },
+    // {
+    //   name: "Job IT",
+    //   description:
+    //     "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+    //   tags: [
+    //     {
+    //       name: "react",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "restapi",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "scss",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: jobit,
+    //   source_code_link: "https://github.com/",
+    // },
+    // {
+    //   name: "Trip Guide",
+    //   description:
+    //     "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    //   tags: [
+    //     {
+    //       name: "nextjs",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "supabase",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "css",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: tripguide,
+    //   source_code_link: "https://github.com/",
+    // },
   ];
   
   export { services, technologies, experiences, testimonials, projects };
