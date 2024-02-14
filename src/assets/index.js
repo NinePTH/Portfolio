@@ -44,6 +44,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import comcamp from "./comcamp35.png"
+import fallenoftheforest from "./cpefinalprojectgame.png"
 
 export {
   logo,
@@ -74,6 +75,7 @@ export {
   starbucks,
   tesla,
   comcamp,
+  fallenoftheforest,
   carrent,
   jobit,
   tripguide,

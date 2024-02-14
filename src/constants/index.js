@@ -20,6 +20,7 @@ import {
     tesla,
     shopify,
     comcamp,
+    fallenoftheforest,
     carrent,
     jobit,
     tripguide,
@@ -258,27 +259,28 @@ import {
       source_code_link: "https://github.com/cpe-kmutt-student",
       website_link: "https://comcamp-dev.kronos.moe/",
     },
-    // {
-    //   name: "Job IT",
-    //   description:
-    //     "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    //   tags: [
-    //     {
-    //       name: "react",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "restapi",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "scss",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   image: jobit,
-    //   source_code_link: "https://github.com/",
-    // },
+    {
+      name: "Forest of the Fallen",
+      description:
+        "Top down 2D Arcade Shooting game that made with Unity. This is my final project in CPE101 class. Available on itch.io",
+      tags: [
+        {
+          name: "C#",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Unity",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Github Desktop",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: fallenoftheforest,
+      source_code_link: "https://github.com/NinePTH/CPE-101-FinalProject",
+      website_link: "https://ninepth.itch.io/forest-of-the-fallen-r",
+    },
     // {
     //   name: "Trip Guide",
     //   description:
