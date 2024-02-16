@@ -58,10 +58,19 @@ const About = () => {
       >
         I have some experiences in various field of work such as IOT, Game, Web and also Data Science.
       </motion.p>
-      <div className='mt-20 flex flex-wrap gap-10'>
+      <div className='mt-20 flex flex-wrap gap-10 mb-64'>
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
         ))}
+      </div>
+      <h2 className={styles.sectionHeadText}>Soft Skills.</h2>
+      <div className='mt-4 text-[#50525b] text-[20px] max-w-3xl leading-[30px]'>
+        Soft skills that I have are
+      </div>
+      <h3 className={styles.subsectionHeadText}>Leadership and Communication.</h3>
+      <div className='mt-4 text-[#50525b] text-[20px] max-w-3xl leading-[30px]'>
+      I have ever been a<br />-Team Leader on a small project team<br /> -Project Vice-Chairman<br />-Project Manager of KMUTT Esport Club<br /><br />
+      I am also a person who listens to other people's opinions and is ready to develop myself.
       </div>
     </>
   )

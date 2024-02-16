@@ -51,6 +51,10 @@ import {
       title: "Edu & Work",
     },
     {
+      id: "project",
+      title: "Project",
+    },
+    {
       id: "contact",
       title: "Contact",
     },
@@ -181,7 +185,7 @@ import {
       title: "Intern Game Developer",
       company_name: "DayDev",
       icon: daydev,
-      iconBg: "#232631",
+      iconBg: "#232631 E6DEDD",
       date: "Feb 2022 - Mar 2023",
       points: [
         "3D Game coding with C# and Unity",
