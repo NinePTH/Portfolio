@@ -69,7 +69,7 @@ const About = () => {
       </div>
       <h3 className={styles.subsectionHeadText}>Leadership and Communication.</h3>
       <div className='mt-4 text-[#50525b] text-[20px] max-w-3xl leading-[30px]'>
-      I have ever been a<br />-Team Leader on a small project team<br /> -Project Vice-Chairman<br />-Project Manager at KMUTT Esport Club<br /><br />
+      I have ever been a<br />-Team Leader on a small project team<br /> -Project Vice-Chairman<br /><br />And I currently be a Project Manager at KMUTT Esport Club<br /><br />
       I am also a person who listens to other people's opinions and is ready to develop myself.
       </div>
     </>
