@@ -38,26 +38,26 @@ const About = () => {
         <h2 className={styles.sectionHeadText}>Overview.</h2>
       </motion.div>
 
-      <motion.p
-        variants={fadeIn("right", "spring", 0.1, 1)}
+      <div
+        // variants={fadeIn("right", "spring", 0.1, 1)}
         className='mt-4 text-[#50525b] text-[17px] max-w-3xl leading-[30px]'
       >
         I am a 18 years old student at KMUTT university.
-      </motion.p>
+      </div>
 
-      <motion.p
-        variants={fadeIn("left", "", 0.1, 1)}
+      <div
+        // variants={fadeIn("left", "", 0.1, 1)}
         className='mt-4 text-[#50525b] text-[17px] max-w-3xl leading-[30px]'
       >
         I'm a beginner software developer with some of experience in Python, C/C++, C#, HTML, Css, TypeScript, JavaScript, Java, and be able to use some frameworks like React, Nextjs.
-      </motion.p>
+      </div>
 
-      <motion.p
-        variants={fadeIn("right", "", 0.1, 1)}
+      <div
+        // variants={fadeIn("right", "", 0.1, 1)}
         className='mt-4 text-[#50525b] text-[17px] max-w-3xl leading-[30px]'
       >
         I have some experiences in various field of work such as IOT, Game, Web and also Data Science.
-      </motion.p>
+      </div>
       <div className='mt-20 flex flex-wrap gap-10 mb-64'>
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />

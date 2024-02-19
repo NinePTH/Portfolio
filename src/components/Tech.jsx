@@ -26,19 +26,19 @@ const Tech = () => {
           <h2 className={styles.sectionHeadText}>TECH & FRAMEWORK.</h2>
       </motion.div>
 
-      <motion.p
-      variants={fadeIn("", "", 0.1, 1)}
+      <div
+      // variants={fadeIn("", "", 0.1, 1)}
       className='mt-4 text-[#50525b] text-[17px] max-w-3xl leading-[30px]'
       >
         that I have touched, experienced on it.<br className='sm:block hidden' />Just some experience I'm still continuing learning to be more proficient at it.
-      </motion.p>
+      </div>
 
-      <motion.p
-      variants={fadeIn("", "", 0.1, 1)}
+      <div
+      // variants={fadeIn("", "", 0.1, 1)}
       className='mt-4 mb-10 text-[#50525b] text-[17px] max-w-3xl leading-[30px]'
       >
         You can find more of tech that I have ever use on my Github repository.
-      </motion.p>
+      </div>
     <Tilt
     options={techcard}
     className="flex flex-row flex-wrap justify-center gap-10 py-14 my-20 bg-neutral-200 rounded-[20px] border-solid border-2 border-neutral-500 shadow-card"
