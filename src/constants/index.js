@@ -260,7 +260,7 @@ import {
         },
       ],
       image: comcamp,
-      source_code_link: "https://github.com/cpe-kmutt-student",
+      source_code_link: "https://github.com/cpe-kmutt-student/comcamp35",
       website_link: "https://comcamp-dev.kronos.moe/",
     },
     {
