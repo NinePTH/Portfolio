@@ -25,6 +25,8 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import csharp from "./tech/ceesharp.png";
 import c from "./tech/C.png";
+import Express from "./tech/express-js.png";
+import MAMP from "./tech/mamp-logo.png";
 import Python from "./tech/Python.png";
 import Nextjs from "./tech/nextjs.png";
 import Vercel from "./tech/Vercel.svg";
@@ -81,6 +83,8 @@ export {
   tripguide,
   csharp,
   c,
+  Express,
+  MAMP,
   Python,
   Nextjs,
   Vercel,

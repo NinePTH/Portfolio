@@ -11,6 +11,8 @@ import {
     redux,
     tailwind,
     nodejs,
+    Express,
+    MAMP,
     mongodb,
     git,
     figma,
@@ -121,6 +123,14 @@ import {
       icon: nodejs,
     },
     {
+      name: "expressjs",
+      icon: Express,
+    },
+    {
+      name: "MAMP",
+      icon: MAMP,
+    },
+    {
       name: "git",
       icon: git,
     },
@@ -208,7 +218,7 @@ import {
         "House keeper robot via microbit, huskylens, servo, 3D print and laser cut.",
         "Inventory Management System for Owner and cashier of a shop via c.",
         "Develop 2D and 3D games using unity: 'The one eye Void: Fire wizards'(3D) and 'Forest of the Fallen'(2D) which is available on my itch.io profile",
-        "Learning + Condition + Form Section in ComCamp 35 Website with React, Vite, Typescript, SCSS, Radix UI.",
+        "Learning + Condition + Form Section in ComCamp 35 Website with React, Vite, Typescript, SCSS, Radix UI, Ant Design and Formik.",
       ],
     },
   ];
