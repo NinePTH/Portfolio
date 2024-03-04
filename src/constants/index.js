@@ -196,7 +196,7 @@ import {
       company_name: "DayDev",
       icon: daydev,
       iconBg: "#232631 E6DEDD",
-      date: "Feb 2022 - Mar 2023",
+      date: "Feb 2023 - Mar 2023",
       points: [
         "3D Game coding with C# and Unity",
         "UX/UI Designing with Figma and Adobe Illustrator",
